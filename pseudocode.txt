@@ -1,0 +1,16 @@
+DECLARE ARRAY of choices - rock paper scissors
+computer CHOICE pulls random number with choices as parameters / args
+RETURN cC;
+
+DECLARE ARRAY of choices - rock paper scissors
+player CHOICE gets input from user prompt
+RETURN pC;
+
+humanScore = 0;
+computerScore = 0;
+
+function playRound(pC, cC) {
+	insert code here
+	console.log("You lose! " + winner + " beats " + loser);
+}
+
